@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alantis02
-- 👀 I’m interested in studey
+- 👀 I’m interested in study
 - 🌱 I’m currently learning idea project
 - 💞️ I’m looking to collaborate on  java project
 - 📫 How to reach me secret
